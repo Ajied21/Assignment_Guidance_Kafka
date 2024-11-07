@@ -7,7 +7,7 @@
 </div>
 
 # Deskripsi Data
-Script ini bertujuan untuk menghasilkan data transaksi e-commerce secara acak dan mengirimkannya ke topik Kafka yang telah ditentukan. Script ini dapat digunakan untuk melakukan simulasi aliran data transaksi dalam sistem Kafka, cocok untuk pengujian dan pengembangan aplikasi yang memerlukan data transaksi real-time.
+Project ini bertujuan untuk menghasilkan data transaksi e-commerce secara acak dan mengirimkannya ke topik Kafka yang telah ditentukan. Script ini dapat digunakan untuk melakukan simulasi aliran data transaksi dalam sistem Kafka, cocok untuk pengujian dan pengembangan aplikasi yang memerlukan data transaksi real-time.
 
 - Fitur
   - Menghasilkan data transaksi e-commerce dengan atribut seperti ID transaksi, waktu, jumlah transaksi, metode pembayaran, dan lainnya.

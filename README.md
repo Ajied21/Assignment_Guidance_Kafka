@@ -19,12 +19,16 @@
 
 # Dokumentasi
 
--Topic ada 4 topic
+-Topic ada 4 topic :
+  - Data_Transaksi_Keuangan_E-commerce
+  - AVG_AGE_PER_CATEGORY
+  - MERCHANT_REVENUE
+  - PAYMENT_METHOD_COUNTS
 <div style="text-align: center;">
     <img src="./images/Topic.png" alt="Architecture Overview" width="500"/>
 </div>
 
-- Partition ada 5 
+- Masing-masing topic ada 5 partition
 <div style="text-align: center;">
     <img src="./images/Partition.png" alt="Architecture Overview" width="500"/>
 </div>

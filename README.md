@@ -19,7 +19,7 @@
 
 # Dokumentasi
 
--Topic ada 4 topic :
+- Topic ada 4:
   - Data_Transaksi_Keuangan_E-commerce
   - AVG_AGE_PER_CATEGORY
   - MERCHANT_REVENUE
